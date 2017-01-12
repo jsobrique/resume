@@ -2,10 +2,10 @@ This repo contains code for the webpage http://jessicaobrique.com/resume/.
 
 Features
 
-1. Bootstrap
+1. Bootstrap Framework
 2. Responsive Design
 3. jQuery animations
-4. Accessbility
+4. Accessbility (Screen reader friendly with valid semantics and color contrast)
 
 Quick links to check the markup and accessbility of the page:
 
